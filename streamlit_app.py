@@ -7,8 +7,8 @@ import json
 import os
 import streamlit as st
 import streamlit.components.v1 as components
-# from langgraph_agent_v2 import KingArthurAgent
-from hf_agent import KingArthurAgent
+from langgraph_agent_v2 import KingArthurAgent
+# from hf_agent import KingArthurAgent
 import time
 import base64
 import re
